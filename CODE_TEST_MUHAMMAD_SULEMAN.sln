@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CODE_TEST_MUHAMMAD_SULEMAN", "CODE_TEST_MUHAMMAD_SULEMAN\CODE_TEST_MUHAMMAD_SULEMAN.csproj", "{D362CA4A-FDB4-4918-A55F-9DF19EBAAFFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest_TextMatching", "UnitTest_TextMatching\UnitTest_TextMatching.csproj", "{43F1B12B-2291-48BD-9901-30872DB3940E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D362CA4A-FDB4-4918-A55F-9DF19EBAAFFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D362CA4A-FDB4-4918-A55F-9DF19EBAAFFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D362CA4A-FDB4-4918-A55F-9DF19EBAAFFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D362CA4A-FDB4-4918-A55F-9DF19EBAAFFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43F1B12B-2291-48BD-9901-30872DB3940E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F1B12B-2291-48BD-9901-30872DB3940E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F1B12B-2291-48BD-9901-30872DB3940E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F1B12B-2291-48BD-9901-30872DB3940E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBC70BC1-785B-47B2-BFD0-9A2090F0A8BE}
+	EndGlobalSection
+EndGlobal

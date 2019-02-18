@@ -1,0 +1,16 @@
+C:\Users\muhammads\Source\Repos\CODE_TEST_MUHAMMAD_SULEMAN\UnitTest_TextMatching\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\muhammads\Source\Repos\CODE_TEST_MUHAMMAD_SULEMAN\UnitTest_TextMatching\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\muhammads\Source\Repos\CODE_TEST_MUHAMMAD_SULEMAN\UnitTest_TextMatching\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\muhammads\Source\Repos\CODE_TEST_MUHAMMAD_SULEMAN\UnitTest_TextMatching\bin\Debug\UnitTest_TextMatching.dll
+C:\Users\muhammads\Source\Repos\CODE_TEST_MUHAMMAD_SULEMAN\UnitTest_TextMatching\bin\Debug\UnitTest_TextMatching.pdb
+C:\Users\muhammads\Source\Repos\CODE_TEST_MUHAMMAD_SULEMAN\UnitTest_TextMatching\bin\Debug\CODE_TEST_MUHAMMAD_SULEMAN.dll
+C:\Users\muhammads\Source\Repos\CODE_TEST_MUHAMMAD_SULEMAN\UnitTest_TextMatching\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\muhammads\Source\Repos\CODE_TEST_MUHAMMAD_SULEMAN\UnitTest_TextMatching\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\muhammads\Source\Repos\CODE_TEST_MUHAMMAD_SULEMAN\UnitTest_TextMatching\bin\Debug\CODE_TEST_MUHAMMAD_SULEMAN.pdb
+C:\Users\muhammads\Source\Repos\CODE_TEST_MUHAMMAD_SULEMAN\UnitTest_TextMatching\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\muhammads\Source\Repos\CODE_TEST_MUHAMMAD_SULEMAN\UnitTest_TextMatching\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\muhammads\Source\Repos\CODE_TEST_MUHAMMAD_SULEMAN\UnitTest_TextMatching\obj\Debug\UnitTest_TextMatching.csprojAssemblyReference.cache
+C:\Users\muhammads\Source\Repos\CODE_TEST_MUHAMMAD_SULEMAN\UnitTest_TextMatching\obj\Debug\UnitTest_TextMatching.csproj.CoreCompileInputs.cache
+C:\Users\muhammads\Source\Repos\CODE_TEST_MUHAMMAD_SULEMAN\UnitTest_TextMatching\obj\Debug\UnitTest_TextMatching.csproj.CopyComplete
+C:\Users\muhammads\Source\Repos\CODE_TEST_MUHAMMAD_SULEMAN\UnitTest_TextMatching\obj\Debug\UnitTest_TextMatching.dll
+C:\Users\muhammads\Source\Repos\CODE_TEST_MUHAMMAD_SULEMAN\UnitTest_TextMatching\obj\Debug\UnitTest_TextMatching.pdb
